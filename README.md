@@ -1,4 +1,4 @@
-<# Python-Scrapy-Mzitu
+# Python-Scrapy-Mzitu
 <h1>使用scrapy对mzitu.com进行的全站图片爬取</h1><br>
 
 #爬取时间大概一个晚上，对比数量应该差不多全部爬取了，除了一些新添加的图片和由于网络问题导致的爬取失败<br>
