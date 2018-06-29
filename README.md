@@ -13,17 +13,10 @@
     获取栏目总有多少页（有页码规律：/页数）<br>
     遍历每一页=》获取图片地址=》下载<br>
 
- ![1](https://raw.githubusercontent.com/Neocou/Python-Scrapy-Mzitu/master/pic/1.PNG)
+
 
  ![2](https://raw.githubusercontent.com/Neocou/Python-Scrapy-Mzitu/master/pic/2.PNG)
- 
- ![3](https://raw.githubusercontent.com/Neocou/Python-Scrapy-Mzitu/master/pic/3.PNG)
- 
- 
- 
- 
- 
- 
-## 十几个G百度云也放不上去，本来还想做个第一次爬全站的纪念。。。。。
 
+ 
+ 
 
